@@ -1,0 +1,9 @@
+C:\Users\TOTI\source\repos\dddtest\Domain\bin\Debug\netcoreapp2.0\Domain.deps.json
+C:\Users\TOTI\source\repos\dddtest\Domain\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\TOTI\source\repos\dddtest\Domain\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\TOTI\source\repos\dddtest\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TOTI\source\repos\dddtest\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TOTI\source\repos\dddtest\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
+C:\Users\TOTI\source\repos\dddtest\Domain\obj\Debug\netcoreapp2.0\Domain.dll
+C:\Users\TOTI\source\repos\dddtest\Domain\obj\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\TOTI\source\repos\dddtest\Domain\obj\Debug\netcoreapp2.0\Domain.csprojAssemblyReference.cache

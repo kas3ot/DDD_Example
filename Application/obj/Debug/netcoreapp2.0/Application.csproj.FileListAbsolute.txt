@@ -1,0 +1,12 @@
+C:\Users\TOTI\source\repos\dddtest\Application\bin\Debug\netcoreapp2.0\Application.deps.json
+C:\Users\TOTI\source\repos\dddtest\Application\bin\Debug\netcoreapp2.0\Application.dll
+C:\Users\TOTI\source\repos\dddtest\Application\bin\Debug\netcoreapp2.0\Application.pdb
+C:\Users\TOTI\source\repos\dddtest\Application\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\TOTI\source\repos\dddtest\Application\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\TOTI\source\repos\dddtest\Application\obj\Debug\netcoreapp2.0\Application.csprojAssemblyReference.cache
+C:\Users\TOTI\source\repos\dddtest\Application\obj\Debug\netcoreapp2.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\TOTI\source\repos\dddtest\Application\obj\Debug\netcoreapp2.0\Application.AssemblyInfoInputs.cache
+C:\Users\TOTI\source\repos\dddtest\Application\obj\Debug\netcoreapp2.0\Application.AssemblyInfo.cs
+C:\Users\TOTI\source\repos\dddtest\Application\obj\Debug\netcoreapp2.0\Application.csproj.CopyComplete
+C:\Users\TOTI\source\repos\dddtest\Application\obj\Debug\netcoreapp2.0\Application.dll
+C:\Users\TOTI\source\repos\dddtest\Application\obj\Debug\netcoreapp2.0\Application.pdb
