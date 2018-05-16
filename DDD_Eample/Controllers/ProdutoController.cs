@@ -19,7 +19,7 @@ namespace DDD_Eample.Controllers
             _IAppProduto = IAppProduto;
         }
 
-        // GET api/values
+        // GET api/Produto
         [HttpGet]
         public IActionResult Get()
         {
