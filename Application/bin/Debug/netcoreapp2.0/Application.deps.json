@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v2.0": {
       "Application/1.0.0": {
         "dependencies": {
-          "Domain": "1.0.0"
+          "Domain": "1.0.0",
+          "Infra": "1.0.0"
         },
         "runtime": {
           "Application.dll": {}
@@ -725,6 +726,20 @@
         "runtime": {
           "Domain.dll": {}
         }
+      },
+      "Infra/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Impatient.EntityFrameworkCore.SqlServer": "2.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.3",
+          "Microsoft.Extensions.Configuration": "2.0.2",
+          "Microsoft.Extensions.Configuration.Abstractions": "2.0.2",
+          "Microsoft.Extensions.Configuration.FileExtensions": "2.0.2",
+          "Microsoft.Extensions.Configuration.Json": "2.0.2"
+        },
+        "runtime": {
+          "Infra.dll": {}
+        }
       }
     }
   },
@@ -1288,6 +1303,11 @@
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
     "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infra/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -38,6 +38,10 @@ namespace DDD_Eample
             services.AddSingleton<InterfaceProduto, RepositoryProduto>();
 
             services.AddSingleton<IAppProduto, AppProduto>();
+
+            services.AddSingleton<InterfaceToDo, RepositoryToDo>();
+
+            services.AddSingleton<IAppToDo, AppToDo>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -21,6 +21,8 @@ namespace Infra.Config
 
         public DbSet<Produto> Produto { get; set; }
 
+        public DbSet<ToDo> ToDo { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionBuilder)
         {
             if (!optionBuilder.IsConfigured)

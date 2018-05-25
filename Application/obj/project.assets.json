@@ -1348,6 +1348,25 @@
         "runtime": {
           "bin/placeholder/Domain.dll": {}
         }
+      },
+      "Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Impatient.EntityFrameworkCore.SqlServer": "2.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.3",
+          "Microsoft.Extensions.Configuration": "2.0.2",
+          "Microsoft.Extensions.Configuration.Abstractions": "2.0.2",
+          "Microsoft.Extensions.Configuration.FileExtensions": "2.0.2",
+          "Microsoft.Extensions.Configuration.Json": "2.0.2"
+        },
+        "compile": {
+          "bin/placeholder/Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infra.dll": {}
+        }
       }
     }
   },
@@ -4927,11 +4946,17 @@
       "type": "project",
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Infra/1.0.0": {
+      "type": "project",
+      "path": "../Infra/Infra.csproj",
+      "msbuildProject": "../Infra/Infra.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Domain >= 1.0.0",
+      "Infra >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -4967,6 +4992,9 @@
           "projectReferences": {
             "C:\\Users\\TOTI\\source\\repos\\dddtest\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Users\\TOTI\\source\\repos\\dddtest\\Domain\\Domain.csproj"
+            },
+            "C:\\Users\\TOTI\\source\\repos\\dddtest\\Infra\\Infra.csproj": {
+              "projectPath": "C:\\Users\\TOTI\\source\\repos\\dddtest\\Infra\\Infra.csproj"
             }
           }
         }

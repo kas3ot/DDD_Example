@@ -10,3 +10,5 @@ C:\Users\TOTI\source\repos\dddtest\Application\obj\Debug\netcoreapp2.0\Applicati
 C:\Users\TOTI\source\repos\dddtest\Application\obj\Debug\netcoreapp2.0\Application.csproj.CopyComplete
 C:\Users\TOTI\source\repos\dddtest\Application\obj\Debug\netcoreapp2.0\Application.dll
 C:\Users\TOTI\source\repos\dddtest\Application\obj\Debug\netcoreapp2.0\Application.pdb
+C:\Users\TOTI\source\repos\dddtest\Application\bin\Debug\netcoreapp2.0\Infra.dll
+C:\Users\TOTI\source\repos\dddtest\Application\bin\Debug\netcoreapp2.0\Infra.pdb
